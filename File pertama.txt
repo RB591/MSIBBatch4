@@ -3,3 +3,4 @@ File pertama belajar HitHub
 Menambahkan file ke github disebut adding (git add)
 Melakukan perubahan file disebut commit (git commit)
 Mengirim perubahan file disebut push (git push)
+revisi
