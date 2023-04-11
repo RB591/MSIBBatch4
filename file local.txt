@@ -1,3 +1,0 @@
-ini adalah file remote
-yang mana kita mengendalikan repo dari github
-dengan itu kita bisa mengendalikan dari lokal atau gitbash

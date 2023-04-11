@@ -1,3 +1,0 @@
-file digunakan untuk merge
-git merge nama_branch
-git push
